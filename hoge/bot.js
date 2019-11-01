@@ -1,4 +1,4 @@
-var slack_token = 'xoxp-709026611472-709026612176-813226162231-79227b0bde3de51eaddbff11e8601715';
+var slack_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 function test() {
   var slackApp = SlackApp.create(slack_token);
   // 対象チャンネル
